@@ -1,4 +1,3 @@
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rizw_n_kh_n) 
 
@@ -17,3 +16,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rizwans-github&icon=5&color=12)](https://visitcount.itsvg.in)
+
+
+<img align="center" alt="Devilman_Crybaby" src="https://github.com/Rizwans-github/onepiece/blob/main/giphy.gif"/>
