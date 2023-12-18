@@ -10,7 +10,7 @@ Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no fo
 
 <div align="left">
   
-  <img src="https://streak-stats.demolab.com?user=Rizwans-github&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Rizwans-github&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5" height="200" alt="streak graph"  /><img height="160" src="https://media.giphy.com/media/91UU6YzqF72np1F4Vn/giphy.gif"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Rizwans-github&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rizwans-github&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="200" alt="languages graph"  />
   
@@ -72,7 +72,7 @@ Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no fo
 </div>
 
 <div >
-  <img height="160" src="https://media.giphy.com/media/u4dQ8BMugUYp2/giphy.gif"  />
+  <img height="160" align ="left" src="https://media.giphy.com/media/dyjrpqaUVqCELGuQVr/giphy.gif"  />
   <img height="160"  src="https://media.giphy.com/media/oxbNORcXx76F2/giphy.gif"  />
-  <img height="160" src="https://media.giphy.com/media/91UU6YzqF72np1F4Vn/giphy.gif"  />
+  <img height= "160" src="https://media.giphy.com/media/mlCb3AjEE6N4Q/giphy.gif"  />
 </div>
