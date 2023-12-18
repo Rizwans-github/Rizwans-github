@@ -23,5 +23,5 @@ Am currently working on various projects to get better at DA using Python, SQL, 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rizwans-github&icon=2&color=12)](https://visitcount.itsvg.in)
-
+https://github.com/Rizwans-github/onepiece/blob/main/giphy.gif
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
