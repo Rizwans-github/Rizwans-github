@@ -67,3 +67,6 @@ Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no fo
   <img height="180" src="https://media.giphy.com/media/xUPGcC4A6ElcqtUJck/giphy.gif"  />
   <img height="180" src="https://media.giphy.com/media/ijsYTyxaMzZh6/giphy.gif"  />
 </div>
+
+## Watch the snake
+  ![snake gif](https://github.com/Rizwans-github/Rizwans-github/blob/output/github-contribution-grid-snake.svg)
