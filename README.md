@@ -5,8 +5,6 @@
 
 ## 💫 About Me:
 Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no formal background in Computer Science, my passion is solely responsible for my growth. I've been working towards this goal for a while and have recently joined the GitHub community. I am working on various projects to improve at Analytics using Python, SQL, Tableau, Power BI, Excel, Sheets, and R. I am always up for collaborating on projects that can help me improve my skills and for guidance from Pros in the industry.
-## Watch the snake
-  ![snake gif](https://github.com/Rizwans-github/Rizwans-github/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
@@ -56,28 +54,27 @@ Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no fo
 ### Find me:
 <div align="left">
   
-  <img height="25" src="https://img.shields.io/static/v1?message=wacky_artistry&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo" />
+  <img height="30" src="https://img.shields.io/static/v1?message=wacky_artistry&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo" />
   <a href="rizwankhan0964e@gmail.com" target="_blank">
-    <img height="25" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo" />
+    <img height="30" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo" />
   </a>
   <a href="www.linkedin.com/in/18rizwan" target="_blank">
-    <img height="25" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo" />
+    <img height="30" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo" />
   </a>
-</div>
-
-
-
-<div align="left">
-  <img height="180" src="https://media.giphy.com/media/VEzYdo930nTiTuVeMU/giphy.gif"  />
-  <img height="180" src="https://media.giphy.com/media/u4dQ8BMugUYp2/giphy.gif"  />
-  <img height="180" src="https://media.giphy.com/media/xUPGcC4A6ElcqtUJck/giphy.gif"  />
-  <img height="180" src="https://media.giphy.com/media/ijsYTyxaMzZh6/giphy.gif"  />
 </div>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>Struggling to contribute</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rizwans-github/Rizwans-github/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rizwans-github/Rizwans-github/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
 </div>
+
+<div align="left">
+  <img height="150" src="https://media.giphy.com/media/7SHF5dpGlltj4bwqFY/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/u4dQ8BMugUYp2/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/ijsYTyxaMzZh6/giphy.gif"  />
+</div>
+
+
