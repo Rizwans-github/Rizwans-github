@@ -74,5 +74,5 @@ Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no fo
 <div >
   <img height="160" align = "left" src="https://media.giphy.com/media/u4dQ8BMugUYp2/giphy.gif"  />
   <img height="160"  align = "center" src="https://media.giphy.com/media/oxbNORcXx76F2/giphy.gif"  />
-  <img height="160" align = "right" src="https://media.giphy.com/media/XDVNmIREHVTfsBowCT/giphy.gif"  />
+  <img height="160" align = "right" src="https://media.giphy.com/media/HIQO8cXG6kWGICKe24/giphy.gif"  />
 </div>
