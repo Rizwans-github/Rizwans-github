@@ -1,5 +1,5 @@
 # 💫 About Me:
-Am currently working on various projects to get better at analysis using Python, SQL, Tableau, Power BI, Excel, Sheets, R.<br>Am up for collaborating on any projects which can help me improve my skills.<br>Am always looking for guidance from industry level experts.
+Am currently working on various projects to get better at DA using Python, SQL, Tableau, Power BI, Excel, Sheets, R.<br>Am up for collaborating on any projects which can help me improve my skills.<br>Am always looking for guidance from industry level experts.
 
 
 # 💻 Tech Stack:
