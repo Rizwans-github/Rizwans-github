@@ -2,17 +2,17 @@
 ## 💫 About Me:
 Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no formal background in Computer Science, my passion is solely responsible for my growth. I've been working towards this goal for a while and have recently joined the GitHub community. I am working on various projects to improve at Analytics using Python, SQL, Tableau, Power BI, Excel, Sheets, and R. I am always up for collaborating on projects that can help me improve my skills and for guidance from Pros in the industry.
 
-
-
 ###
 
-<div align="center">
+<div align="left">
+  
   <img src="https://streak-stats.demolab.com?user=Rizwans-github&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Rizwans-github&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rizwans-github&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="200" alt="languages graph"  />
+  
 </div>
 
-###
+### Tech Stack:<img height="200" align ="right" src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -42,50 +42,28 @@ Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no fo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+
+  
+  
 </div>
 
-###
-
+### Find me:
 <div align="left">
-  <a href="instagram.com/wacky_artistry" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=wacky_artistry&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="instagram logo"  />
-  </a>
+  
+  <img height="25" src="https://img.shields.io/static/v1?message=wacky_artistry&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo" />
   <a href="rizwankhan0964e@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="gmail logo"  />
+    <img height="25" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo" />
   </a>
   <a href="www.linkedin.com/in/18rizwan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="linkedin logo"  />
+    <img height="25" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo" />
   </a>
 </div>
 
-###
 
-<img align="right" height="200" src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif"  />
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Rizwans-github/Rizwans-github/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/lsdd32H2EqjXGRhWu4/giphy.gif"  />
+<div align="left">
+  <img height="180" src="https://media.giphy.com/media/VEzYdo930nTiTuVeMU/giphy.gif"  />
+  <img height="180" src="https://media.giphy.com/media/u4dQ8BMugUYp2/giphy.gif"  />
+  <img height="180" src="https://media.giphy.com/media/xUPGcC4A6ElcqtUJck/giphy.gif"  />
+  <img height="180" src="https://media.giphy.com/media/ijsYTyxaMzZh6/giphy.gif"  />
 </div>
-
-###
-
-<img align="right" height="200" src="https://media.giphy.com/media/u4dQ8BMugUYp2/giphy.gif"  />
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/xUPGcC4A6ElcqtUJck/giphy.gif"  />
-</div>
-
-###
-
-<img align="left" height="200" src="https://media.giphy.com/media/ijsYTyxaMzZh6/giphy.gif"  />
-
-###
