@@ -1,4 +1,8 @@
-# Hey Visitor!! Welcome to my GitHub :)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&pause=500&duration=2000&color=FF652F&lines=Hiii+There!+👋;+Welcome+to+my+GitHub+:+);" />
+</h1>
+
+
 ## 💫 About Me:
 Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no formal background in Computer Science, my passion is solely responsible for my growth. I've been working towards this goal for a while and have recently joined the GitHub community. I am working on various projects to improve at Analytics using Python, SQL, Tableau, Power BI, Excel, Sheets, and R. I am always up for collaborating on projects that can help me improve my skills and for guidance from Pros in the industry.
 ## Watch the snake
