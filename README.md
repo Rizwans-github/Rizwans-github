@@ -3,7 +3,7 @@
 </h1>
 
 
-## 💫 About Me:
+# 💫 About Me:
 Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no formal background in Computer Science, my passion is solely responsible for my growth. I've been working towards this goal for a while and have recently joined the GitHub community. I am working on various projects to improve at Analytics using Python, SQL, Tableau, Power BI, Excel, Sheets, and R. I am always up for collaborating on projects that can help me improve my skills and for guidance from Pros in the industry.
 
 ###
@@ -16,8 +16,8 @@ Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no fo
   
 </div>
 
-## Tech Stack:
-<img height="200" align ="right" src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif"  />
+## **Tech Stack:**
+<img height="220" align ="right" src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
@@ -25,7 +25,8 @@ Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no fo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy logo"  />
-  <img width="25" />
+  <img width="25" /><img src="https://matplotlib.org/_static/images/documentation.svg" height="50" alt="Matplot"  />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50" alt="Seaborn"  /> 
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" alt="r logo"  />
@@ -33,8 +34,6 @@ Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no fo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="50" alt="salesforce logo"  />
   <img width="12" />
@@ -47,12 +46,12 @@ Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no fo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
-
+  
   
   
 </div>
 
-### Find me:
+### **Find me:**
 <div align="left">
   <a href="https://www.instagram.com/wacky_artistry" target="_blank">
     <img height="30" src="https://img.shields.io/static/v1?message=wacky_artistry&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo" />
