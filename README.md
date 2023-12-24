@@ -80,6 +80,6 @@ Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no fo
 </div> 
 
 #### Profile Views:
-![:rizwans-github](https://count.getloli.com/get/@rizwans-github?theme=rule34?title="COUNT"?hide_title=false)
+![:rizwans-github](https://count.getloli.com/get/@rizwans-github?theme=rule34)
 
 
