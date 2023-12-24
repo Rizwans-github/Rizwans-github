@@ -51,6 +51,7 @@ Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no fo
   
 </div>
 
+
 ### **Find me:**
 <div align="left">
   <a href="https://www.instagram.com/wacky_artistry" target="_blank">
@@ -76,4 +77,9 @@ Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no fo
   <img height="150" src="https://media.giphy.com/media/4OV1bLOIWwIXRxpXlN/giphy.gif"  />
   <img height="150"  src="https://media.giphy.com/media/oxbNORcXx76F2/giphy.gif"  />
   <img height= "150"  src="https://media.giphy.com/media/mlCb3AjEE6N4Q/giphy.gif"  />
-</div>
+</div> 
+
+#### Profile Views:
+![:rizwans-github](https://count.getloli.com/get/@rizwans-github?theme=rule34?title="COUNT"?hide_title=false)
+
+
