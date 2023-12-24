@@ -1,7 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=700&height=80&pause=300&duration=2000&color=FF652F&lines=Hiii+There!+👋;+Welcome+to+my+GitHub+:+);" />
+    <img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=700&height=80&pause=300&duration=2000&color=FF652F&lines=Hiii+There!+👋;+Welcome+to+my+GitHub+:+);" />
 </h1>
-
+  <img height="281" src="https://tenor.com/mWOp9a6SQYd.gif"  />
 
 # 💫 About Me:
 Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no formal background in Computer Science, my passion is solely responsible for my growth. I've been working towards this goal for a while and have recently joined the GitHub community. I am working on various projects to improve at Analytics using Python, SQL, Tableau, Power BI, Excel, Sheets, and R. I am always up for collaborating on projects that can help me improve my skills and for guidance from Pros in the industry.
@@ -82,9 +82,22 @@ Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no fo
   <img height="150" src="https://media.giphy.com/media/4OV1bLOIWwIXRxpXlN/giphy.gif"  />
   <img height="150"  src="https://media.giphy.com/media/oxbNORcXx76F2/giphy.gif"  />
   <img height= "150"  src="https://media.giphy.com/media/mlCb3AjEE6N4Q/giphy.gif"  />
+  
 </div> 
 
 #### Profile Views:
 ![:rizwans-github](https://count.getloli.com/get/@rizwans-github?theme=rule34)
+
+name: Favorites anime and currently watching
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.anilist.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_anilist: yes
+  plugin_anilist_medias: anime
+  plugin_anilist_sections: favorites, watching
+  plugin_anilist_limit: 1
+
 
 
