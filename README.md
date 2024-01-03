@@ -67,10 +67,9 @@ Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no fo
   </a>
 </div>
 
-### **:)**
-
+### :)
 <div >
-  <img height="156" src="https://media.giphy.com/media/4OV1bLOIWwIXRxpXlN/giphy.gif"  />
+  <img height="156" src="https://github.com/Rizwans-github/MyGifs/blob/main/monster-trio-luffy-zoro-sanji.gif"  />
   <img height="156" src="https://media.giphy.com/media/oxbNORcXx76F2/giphy.gif"  />
   <img height="156" src="https://media.giphy.com/media/mlCb3AjEE6N4Q/giphy.gif"  />
   
