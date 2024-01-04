@@ -1,7 +1,7 @@
 <h1 align="center">
     <img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=700&height=80&pause=300&duration=2000&color=FF652F&lines=Hiii+There!+👋;+Welcome+to+my+GitHub+:+);" />
 </h1>
-
+<img height ="150" align ="right" src = "https://github.com/Rizwans-github/MyGifs/blob/main/ichigo-kurusaki-hollow.gif" >
 ## 💫 **About Me:**
 Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no formal background in Computer Science, my passion is solely responsible for my growth. I've been working towards this goal for a while and have recently joined the GitHub community. I am working on various projects to improve at Analytics using Python, SQL, Tableau, Power BI, Excel, Sheets, and R. I am always up for collaborating on projects that can help me improve my skills and for guidance from Pros in the industry.
 
@@ -15,7 +15,8 @@ Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no fo
   
 </div>
 
-## **Tech Stack:**
+## **Tech Stack:** 
+
 <img height="220" align ="right" src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif"  />
 
 <div align="left">
