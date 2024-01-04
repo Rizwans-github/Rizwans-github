@@ -1,4 +1,4 @@
-<h1 align="center"><img height ="150" align ="right" src = "https://github.com/Rizwans-github/MyGifs/blob/main/ichigo-kurusaki-hollow.gif" >
+<h1 align="center"><img height ="100" align ="right" src = "https://github.com/Rizwans-github/MyGifs/blob/main/ichigo-kurusaki-hollow.gif" >
     <img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=700&height=80&pause=300&duration=2000&color=FF652F&lines=Hiii+There!+👋;+Welcome+to+my+GitHub+:+);" />
 </h1>
 
