@@ -58,21 +58,21 @@ Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no fo
 ### **Find me:**
 <div align="left">
   <a href="https://www.instagram.com/wacky_artistry" target="_blank">
-    <img height="30" src="https://img.shields.io/static/v1?message=wacky_artistry&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo" />
+    <img height="20" src="https://img.shields.io/static/v1?message=wacky_artistry&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo" />
   </a>
   <a href="mailto:rizwankhan0964e@gmail.com" target="_blank">
-    <img height="30" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo" />
+    <img height="20" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/18rizwan" target="_blank">
-    <img height="30" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo" />
+    <img height="20" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo" />
   </a>
 </div>
 
 ### :)
 <div >
-  <img height="157" src="https://github.com/Rizwans-github/MyGifs/blob/main/monster-trio-luffy-zoro-sanji.gif"  />
-  <img height="157" src="https://media.giphy.com/media/oxbNORcXx76F2/giphy.gif"  />
-  <img height="157" src="https://media.giphy.com/media/mlCb3AjEE6N4Q/giphy.gif"  />
+  <img height="150" src="https://github.com/Rizwans-github/MyGifs/blob/main/monster-trio-luffy-zoro-sanji.gif"  />
+  <img height="150" src="https://media.giphy.com/media/oxbNORcXx76F2/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/mlCb3AjEE6N4Q/giphy.gif"  />
   
 </div> 
 
