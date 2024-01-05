@@ -1,4 +1,4 @@
-<h1 align="center"><img height ="70" align ="right" src = "https://github.com/Rizwans-github/Rizwans-github/assets/141806496/4bcd62a8-569d-4a5e-be27-9a7d0251c57c" >
+<h1 align="center"><img height ="80" align ="right" src = "https://github.com/Rizwans-github/Rizwans-github/assets/141806496/4bcd62a8-569d-4a5e-be27-9a7d0251c57c" >
     <img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=600&height=50&pause=300&duration=2000&color=FF652F&lines=Hiii+There!+👋;+Welcome+to+my+GitHub+:+);" />
 </h1>
 
