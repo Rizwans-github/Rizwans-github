@@ -17,7 +17,7 @@ Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no fo
 
 ## **Tech Stack:** 
 
-<img height="220" align ="right" src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif"  />
+<img height="150" align ="right" src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif"  />
 
 <div align="left">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" height="30" alt="python logo"  />
