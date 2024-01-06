@@ -9,7 +9,7 @@ Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no fo
 
 <div align="left">
   
-  <img src="https://streak-stats.demolab.com?user=Rizwans-github&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&card_width=600&border_radius=5" height="150" alt="streak graph"  /><img height="150" src="https://media.giphy.com/media/RdCRnI8IgUkAU/giphy.gif"  />
+  <img src="https://streak-stats.demolab.com?user=Rizwans-github&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&card_width=600&border_radius=5" height="170" alt="streak graph"  /><img height="150" src="https://media.giphy.com/media/RdCRnI8IgUkAU/giphy.gif"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Rizwans-github&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&card_width=507&theme=codeSTACKr&locale=en&hide_border=true" height="150" alt="stats graph"  /><img height="150" src="https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rizwans-github&locale=en&hide_title=false&card_width=354&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="150" alt="languages graph"  /><img height="150" src="https://media.giphy.com/media/91UU6YzqF72np1F4Vn/giphy.gif"  />
   
