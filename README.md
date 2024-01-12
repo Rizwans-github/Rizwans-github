@@ -70,7 +70,7 @@ Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no fo
 
 ### :)
 <div >
-    <img height="390" src="https://github.com/Rizwans-github/MyGifs/blob/main/monster-trio-luffy-zoro-sanji.gif"  />
+    <img height="420" src="https://github.com/Rizwans-github/MyGifs/blob/main/monster-trio-luffy-zoro-sanji.gif"  />
 
   
 </div> 
