@@ -3,11 +3,12 @@
 </h1>
 
 ## 💫 **About Me:**
-Hiii, I am `Rizwan` aspiring to be a `Data Analyst` with a hunger to learn and no formal background in Computer Science, 
+```python
+>Hiii, I am `Rizwan` aspiring to be a `Data Analyst` with a hunger to learn and no formal background in Computer Science, 
 my passion is solely responsible for my growth. I've been working towards this goal and have recently joined the GitHub community.
 I am working on various projects to improve at Analytics using `Python, SQL, Tableau, Power BI, Excel, Sheets, and R`.
 I am always up for collaborating on projects that can help me improve my skills and for guidance from Pros in the industry.
-
+```
 <div align="left">
   
   <img src="https://streak-stats.demolab.com?user=Rizwans-github&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&card_width=600&border_radius=5" height="150" alt="streak graph"  /><img height="150" src="https://media.giphy.com/media/RdCRnI8IgUkAU/giphy.gif"  />
