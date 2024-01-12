@@ -70,11 +70,11 @@ Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no fo
 
 ### :)
 <div >
-    <img height="460" src="https://github.com/Rizwans-github/MyGifs/blob/main/monster-trio-luffy-zoro-sanji.gif"  />
-
+    <img height="150" src="https://github.com/Rizwans-github/MyGifs/blob/main/monster-trio-luffy-zoro-sanji.gif"  />
+    <img height="150" src="https://media.giphy.com/media/oxbNORcXx76F2/giphy.gif"  /> <img height="150" src="https://media.giphy.com/media/mlCb3AjEE6N4Q/giphy.gif" 
   
 </div> 
-    <!-- <img height="190" src="https://media.giphy.com/media/oxbNORcXx76F2/giphy.gif"  /> <img height="190" src="https://media.giphy.com/media/mlCb3AjEE6N4Q/giphy.gif"  /> -->
+    <!--  /> -->
   
 ### **Profile Views**:
 ![:rizwans-github](https://count.getloli.com/get/@rizwans-github?theme=rule34)
