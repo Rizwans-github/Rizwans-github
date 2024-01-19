@@ -84,4 +84,4 @@ that can help me improve my skills and for guidance from Pros in the industry.
 
 
 #### PS:
-CSS is next
+CSS will be next
