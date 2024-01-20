@@ -83,5 +83,3 @@ that can help me improve my skills and for guidance from Pros in the industry.
 ![:rizwans-github](https://count.getloli.com/get/@rizwans-github?theme=rule34)
 
 
-#### PS:
-CSS you are next
