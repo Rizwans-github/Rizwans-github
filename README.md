@@ -11,14 +11,14 @@ using Python, SQL, Tableau, Power BI, Excel, Sheets, and R. I am always up for c
 that can help me improve my skills and for guidance from Pros in the industry.
 ```
 
-| Type | Data | <img height ="90" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNyZXVzeXhwYzE1ZGw1aDgzaTdkYXA0ZnBnMzJ4bXJhM2h2M3VhayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/GFtsjaDVJnoNa/giphy.gif"/> |
+| Type | Data | <img height ="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNyZXVzeXhwYzE1ZGw1aDgzaTdkYXA0ZnBnMzJ4bXJhM2h2M3VhayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/GFtsjaDVJnoNa/giphy.gif"/> |
 | :----: | :---------: |  :-----------: |
 | **Days** | <img src="https://streak-stats.demolab.com?user=Rizwans-github&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&card_width=600&border_radius=5" height="200" alt="streak graph"  /> | <img height="150" src="https://media.giphy.com/media/RdCRnI8IgUkAU/giphy.gif"  /> |
 | **Summary**  | <img src="https://github-readme-stats.vercel.app/api?username=Rizwans-github&hide_title=true&show_owner=true&hide_rank=false&rank_icon=percentile&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&card_width=507&theme=codeSTACKr&locale=en&hide_border=true" height="200" alt="stats graph"  /> | <img height="150" src="https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif"  /> |
 | **Languages**  | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rizwans-github&locale=en&hide_title=false&card_width=507&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="200" alt="languages graph"  /> | <img height="150" src="https://media.giphy.com/media/91UU6YzqF72np1F4Vn/giphy.gif"  /> |
 | **Profile Visits** | ![:rizwans-github](https://count.getloli.com/get/@rizwans-github?theme=rule34) |<a href="https://www.instagram.com/wacky_artistry" target="_blank"><img height="25" src="https://img.shields.io/static/v1?message=wacky_artistry&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo" /> </a> <a href="mailto:rizwankhan0964e@gmail.com" target="_blank"> <img height="25" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo" /></a> <br> <a href="https://www.linkedin.com/in/18rizwan" target="_blank"><img height="25" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo" /> </a>|
 ## **Tech Stack:** 
-<img height="200" align ="right" src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif"  />
+<img height="190" align ="right" src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif"  />
 
 <!--
 <div align="left">
@@ -64,11 +64,7 @@ that can help me improve my skills and for guidance from Pros in the industry.
 | Art & Design |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  /><img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /> | |
 | Machine Learning | <img src="https://techstack-generator.vercel.app/python-icon.svg" height="40" alt="python logo"  /> <img width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />   <img width="12" />|  <img src="https://github.com/Rizwans-github/Rizwans-github/assets/141806496/a5610765-6d00-43cb-8ced-4d720b76a997"/>|
 | Web Development | <img src="https://github.com/Rizwans-github/Rizwans-github/assets/141806496/a5610765-6d00-43cb-8ced-4d720b76a997"/>||
-<p style="text-align: right;">
-  <a href="https://www.instagram.com/wacky_artistry" target="_blank">
-    <img height="25" src="https://img.shields.io/static/v1?message=wacky_artistry&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo" />
-  </a>
-</p>
+
 <!--
 <div align="right">
   <a href="https://www.instagram.com/wacky_artistry" target="_blank"><img height="25" src="https://img.shields.io/static/v1?message=wacky_artistry&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo" /></a>  <br> <a href="mailto:rizwankhan0964e@gmail.com" target="_blank"> <img height="25" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo" /></a> <br> <a href="https://www.linkedin.com/in/18rizwan" target="_blank"><img height="25" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo" />
