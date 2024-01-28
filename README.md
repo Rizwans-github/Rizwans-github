@@ -10,21 +10,14 @@ and have recently joined the GitHub community. I am working on various projects 
 using Python, SQL, Tableau, Power BI, Excel, Sheets, and R. I am always up for collaborating on projects
 that can help me improve my skills and for guidance from Pros in the industry.
 ```
-<div align="left">
-  
-  <img src="https://streak-stats.demolab.com?user=Rizwans-github&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&card_width=600&border_radius=5" height="150" alt="streak graph"  />
-  <img height="150" src="https://media.giphy.com/media/RdCRnI8IgUkAU/giphy.gif"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Rizwans-github&hide_title=true&show_owner=true&hide_rank=false&rank_icon=percentile&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&card_width=507&theme=codeSTACKr&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img height="150" src="https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rizwans-github&locale=en&hide_title=false&card_width=507&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="150" alt="languages graph"  />
-  <img height="150" src="https://media.giphy.com/media/91UU6YzqF72np1F4Vn/giphy.gif"  />
-  
-</div>
 
+| Type | Data | <img height ="90" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNyZXVzeXhwYzE1ZGw1aDgzaTdkYXA0ZnBnMzJ4bXJhM2h2M3VhayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/GFtsjaDVJnoNa/giphy.gif"/> |
+| :----: | :---------: |  :-----------: |
+| **Days** | <img src="https://streak-stats.demolab.com?user=Rizwans-github&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&card_width=600&border_radius=5" height="200" alt="streak graph"  /> | <img height="150" src="https://media.giphy.com/media/RdCRnI8IgUkAU/giphy.gif"  /> |
+| **Summary**  | <img src="https://github-readme-stats.vercel.app/api?username=Rizwans-github&hide_title=true&show_owner=true&hide_rank=false&rank_icon=percentile&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&card_width=507&theme=codeSTACKr&locale=en&hide_border=true" height="200" alt="stats graph"  /> | <img height="150" src="https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif"  /> |
+| **Languages**  | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rizwans-github&locale=en&hide_title=false&card_width=507&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="200" alt="languages graph"  /> | <img height="150" src="https://media.giphy.com/media/91UU6YzqF72np1F4Vn/giphy.gif"  /> |
+| **Profile Visits** | ![:rizwans-github](https://count.getloli.com/get/@rizwans-github?theme=rule34) | <img height ="150" src="https://github.com/Rizwans-github/Rizwans-github/assets/141806496/2caae60e-4ab1-4975-aaac-c470f17c19f3"/> |
 ## **Tech Stack:** 
-
 <img height="170" align ="right" src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif"  />
 
 <div align="left">
@@ -83,8 +76,9 @@ that can help me improve my skills and for guidance from Pros in the industry.
   
 </div> 
     <!--  /> -->
-  
+
+
 ### **Profile Views**:
-![:rizwans-github](https://count.getloli.com/get/@rizwans-github?theme=rule34)
+
 
 
