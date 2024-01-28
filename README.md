@@ -18,9 +18,9 @@ that can help me improve my skills and for guidance from Pros in the industry.
 | **Languages**  | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rizwans-github&locale=en&hide_title=false&card_width=507&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="200" alt="languages graph"  /> | <img height="150" src="https://media.giphy.com/media/91UU6YzqF72np1F4Vn/giphy.gif"  /> |
 | **Profile Visits** | ![:rizwans-github](https://count.getloli.com/get/@rizwans-github?theme=rule34) |<a href="https://www.instagram.com/wacky_artistry" target="_blank"><img height="25" src="https://img.shields.io/static/v1?message=wacky_artistry&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo" /> </a> <a href="mailto:rizwankhan0964e@gmail.com" target="_blank"> <img height="25" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo" /></a> <br> <a href="https://www.linkedin.com/in/18rizwan" target="_blank"><img height="25" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo" /> </a>|
 ## **Tech Stack:** 
-<img height="180" align ="right" src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif"  />
+<!--<img height="180" align ="right" src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif"  />
 
-<!--
+
 <div align="left">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" height="40" alt="python logo"  />
   <img width="25" />
