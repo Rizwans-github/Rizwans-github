@@ -5,7 +5,7 @@
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="25" height="25"> **About Me:**
 ```python
 Hiii, I am Rizwan aspiring to be a Data Analyst with a hunger to learn and no formal background in CS,
-my passion is solely responsible for my growth. I've been working towards this goal and have recently joined the GitHub community.
+my passion is solely responsible for my growth. I've been working towards this goal and have recently joined GitHub.
 I am currently working full time and am also pursuing B.com(Hons).
 I am working on various projects to improve at Analytics using Python, SQL, Tableau, Power BI, Excel, Sheets, and R.
 I am always up for collaborating on projects that can help me improve my skills and for guidance from Pros in the industry.
