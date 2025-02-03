@@ -4,10 +4,9 @@
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="25" height="25"> **About Me:**
 ```python
-I'm Rizwan, Data Analyst professional with strong data analysis skills using
-Python, SQL, Tableau, Excel, Power BI and R. I actively contribute to open-source projects on GitHub,
-demonstrating my commitment to collaboration and knowledge sharing.
-My passion for continuous learning fuels my proficiency in these diverse tools.
+I'm Rizwan, a Data Analyst skilled in Python, SQL, Tableau, Excel, Power BI, and R,
+supporting open-source projects on GitHub to promote collaboration and knowledge sharing,
+while transforming complex data into actionable insights
 ```
 
 | Type | Data | <img height ="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNyZXVzeXhwYzE1ZGw1aDgzaTdkYXA0ZnBnMzJ4bXJhM2h2M3VhayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/GFtsjaDVJnoNa/giphy.gif"/> |
