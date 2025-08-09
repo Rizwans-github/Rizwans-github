@@ -3,11 +3,12 @@
 </h1>
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="25" height="25"> **About Me:**
-```python
-I'm Rizwan, a Data Analyst skilled in Python, SQL, Tableau, Excel, Power BI, and R,
-supporting open-source projects on GitHub to promote collaboration and knowledge sharing,
-while transforming complex data into actionable insights.
-```
+
+- I am a detail-oriented Data Analyst skilled at transforming complex datasets into clear, actionable insights. My portfolio showcases a diverse range of end-to-end projects, including exploratory data analysis, advanced data visualisation, workflow automation, and machine learning, highlighting my ability to solve real-world problems through code.
+
+- My technical expertise spans Python, SQL, Tableau, Power BI, Excel, and R. I am passionate about open-source collaboration and maintain a strong commitment to continuous learning, consistently expanding my knowledge in data engineering, DevOps practices, and advanced machine learning methods.
+
+
 
 | Type | Data | <img height ="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNyZXVzeXhwYzE1ZGw1aDgzaTdkYXA0ZnBnMzJ4bXJhM2h2M3VhayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/GFtsjaDVJnoNa/giphy.gif"/> |
 | :----: | :---------: |  :-----------: |
